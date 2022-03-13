@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Catamint. (The real name is pronounced like "YummyCat"??)
 - 👀 I’m interested in SC, math and puzzles, and Genshin now (it must be Mihoyo's fault).
-- 🌱 I’m learning Computer science in a vrey early period.
+- 🌱 I’m learning Computer science in a very early period.
 - 💞️ Collaborate on? emm...none. I'm learning and hope could collaborate with you one day.
 - 📫 Contact me by this email: kaikaiming@outlook.com
 - In the visible future, here will be as a notebook recording a newbie's advancement. 

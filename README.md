@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Catamint. (The real name is pronounced like "YummyCat"??)
+- 👋 Hi, I’m @Catamint.
 - 👀 I’m interested in SC, math and puzzles, and Genshin now (it must be Mihoyo's fault).
 - 🌱 I’m learning Computer science in a very early period.
 - 💞️ Collaborate on? emm...none. I'm learning and hope could collaborate with you one day.

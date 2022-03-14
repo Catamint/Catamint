@@ -4,7 +4,7 @@
 - 💞️ Collaborate on? emm...none. I'm learning and hope could collaborate with you one day.
 - 📫 Contact me by this email: kaikaiming@outlook.com
 - In the visible future, here will be as a notebook recording a newbie's advancement. 
-A
+
    Off topic: Haven't you know Social Newbility? (Akimbo)
 
 <!---

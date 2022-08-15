@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Catamint.
-- 👀 I’m interested in SC, math and puzzles, and Genshin now (it must be Mihoyo's fault).
-- 🌱 I just started learning Computer science.
-- 💞️ Collaborate on? emm...none. I'm learning and hope could collaborate with you one day.
+- 👀 I’m interested in CS, math and puzzles, and.. Genshin? (It must be Mihoyo's fault).
+- 🌱 I' ve learnt Computer science for 1 year.
+- 💞️ Collaborate on? Hope to collaborate with you one day.
 - 📫 Contact me by this email: kaikaiming@outlook.com
-- In the visible future, here will be as a notebook recording a newbie's advancement. 
+- In the visible future, here will be as a notebook recording a newbie's advancement.  
+(Haven' t been by now! -_-!! )
 
    Off topic: Haven't you know Social Newbility? (Akimbo)
 
